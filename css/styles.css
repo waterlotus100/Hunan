@@ -1,0 +1,124 @@
+/* navigation bar position fixed */
+body {
+  font-family: "Varela", sans-serif;
+  padding: 0 3%;
+  text-align: center;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 2rem;
+  margin: 0 3%;
+}
+
+.navbar-brand {
+  font-family: "Merienda", cursive;
+  font-size: 3rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 2rem;
+  text-align: left;
+}
+
+/* Title Sections */
+#title {
+  background-color: #eeeeee;
+  padding-top: 80px;
+}
+
+.title-heading {
+  font-size: 5rem;
+  padding-top: 100px;
+  padding-left: 20px;
+}
+
+.title-p {
+  font-size: 3rem;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+/* Hours Section  */
+
+#hours {
+  padding: 5% 10%;
+}
+
+.hours-heading {
+  font-size: 5rem;
+  padding-top: 5%;
+  text-align: left;
+}
+
+.hours-hours {
+  font-size: 3rem;
+  padding: 5% 0;
+  text-align: left;
+}
+
+h4 {
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+/* Contacts Section  */
+
+#contact {
+  padding: 5% 3%;
+}
+
+.contact-container-fluid {
+  background-color: #eeeeee;
+}
+
+.contact-heading {
+  font-size: 5rem;
+  padding: 16% 5% 3%;
+}
+
+.contact-p {
+  font-size: 2rem;
+  line-height: 2;
+  text-align: center;
+}
+
+/* Google Maps  */
+
+#google-maps {
+  margin: 3%;
+}
+
+/* Footer Section  */
+
+#footer {
+  background-color: #8f9599;
+  padding: 0 100px;
+  color: #fff;
+}
+
+.footer-heading {
+  font-family: "Merienda", cursive;
+  font-size: 5rem;
+  padding-top: 120px;
+  padding-bottom: 30px;
+}
+
+.footer-p {
+  font-size: 2rem;
+  line-height: 2;
+}
+
+.footer-icon {
+  margin: 15px;
+}
+
+.footer-copy {
+  font-size: 10px;
+}
